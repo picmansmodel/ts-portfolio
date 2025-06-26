@@ -40,6 +40,7 @@ https://www.youtube.com/watch?v=hn1IkJk24ow&ab_channel=PedroTech
 
 RUN:
 npm run deploy
+https://picmansmodel.github.io/ts-portfolio/
 
 
 

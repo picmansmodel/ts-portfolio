@@ -14,7 +14,7 @@ function App() {
     
     <>
     <CircularText
-  text="REACT*BITS*COMPONENTS*"
+  text="MIAU*MIAU*MIAU*"
   onHover="speedUp"
   spinDuration={20}
   className="custom-class"
