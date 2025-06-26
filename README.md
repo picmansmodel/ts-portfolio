@@ -24,12 +24,25 @@ NEW:
 https://tailwindcss.com/docs/installation/using-vite
 https://www.youtube.com/watch?v=sHnG8tIYMB4&ab_channel=Lukas%7CWebDevelopment%26Design
 
+Setup Git Hub:
+https://dev.to/ionabrabender/creating-a-portfolio-website-using-github-pages-and-react-part-2-16e1
+
 
 6. run
 
 just hit terminal with to get in dev mode
 npm run dev
 http://localhost:5173/
+
+
+7. GIT SETUP:
+https://www.youtube.com/watch?v=hn1IkJk24ow&ab_channel=PedroTech
+
+RUN:
+npm run deploy
+
+
+
 
 
 # Getting Started with Create React App
