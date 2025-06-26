@@ -2,12 +2,25 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import CircularText from './CircularText';
+
+import { motion } from 'framer-motion';
+import { useEffect, useRef, useState, useMemo } from 'react';
+
+
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
+    
     <>
+    <CircularText
+  text="REACT*BITS*COMPONENTS*"
+  onHover="speedUp"
+  spinDuration={20}
+  className="custom-class"
+    />
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
